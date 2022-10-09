@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ManelAnsari
+- 👋 Hi, 
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning ml/ai/data science
 - 💞️ I’m looking for internship
-- 📫 How to reach me : lansary.manel@gmail.com
+
 
 <!---
 ManelAnsari/ManelAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
